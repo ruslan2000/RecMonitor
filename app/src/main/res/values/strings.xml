@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VBG Rec Monitor</string>
+    <string name="main_cbg">CBGs recording</string>
+    <string name="main_status">status:</string>
+    <string name="main_msg_inProgress">In progress...</string>
+    <string name="main_msg_idle">Idle...</string>
+    <string name="main_btn_on_off">Camera</string>
+    <string name="url_smb">smb://10.169.145.10/O/Users/Ruslan/cbgStart.txt</string>
+    <string name="url_txt">https://www.w3.org/TR/PNG/iso_8859-1.txt</string>
+    <string name="url_file"> file://10.169.145.10/O/Users/Ruslan/cbgStart.txt</string>
+    <string name="url_fringes">http://10.169.145.155:13580/snapshot.jpg</string>
+    <string name="udp_port">7006</string>
+</resources>
